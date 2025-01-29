@@ -6,7 +6,7 @@ Generative Artificial Intelligence Engineer, specializing in:
 2. Deep Learning.
 3. Natural Language Processing(NLP).
 4. Generative AI & RAG applications.
-5. Autonomous Agents AI (Crew AI, Autogen, Lanf graph).
+5. Autonomous Agents AI (Crew AI, Autogen, Lang graph).
 6. Python developer (Pandas, Numpy, Metplotlib, Seabon, Pytorch).
 
  My solid foundaton in Mathematics, Statistics, Calculus, Linear Algebra, and Differential Equitions
